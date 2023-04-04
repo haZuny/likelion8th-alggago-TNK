@@ -23,3 +23,10 @@ ruby alggago.rb
 <img src="https://user-images.githubusercontent.com/64102831/214782770-1c5236d2-395c-42cc-afb2-4e457e7fff75.PNG" width="700">
 
 [유튜브 시상식 Live](https://youtu.be/v4i_xhu78wA)
+
+<br>
+
+# 느낀점
+
+학교에서 배운 선형대수학을 적용하여, 각 바둑돌의 모든 방향을 일정 각도(세타)방향으로 뽑아내는 역할을 맡았습니다,<br>
+이 프로젝트를 통해 코딩에서 수학적 연산이 어떤식으로 적용될수 있나에 대해 많이 생각해 볼 수 있었습니다.
